@@ -1,1 +1,12 @@
 
+---
+
+### **2. LICENSE**
+
+Add the Apache 2.0 License. Use GitHub's license template to include the full license text. Here's an additional note at the top:
+
+```plaintext
+This project is licensed under the Apache 2.0 License. You may obtain a copy of the License at:
+
+http://www.apache.org/licenses/LICENSE-2.0
+
